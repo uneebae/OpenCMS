@@ -11,11 +11,9 @@
 const sidebars = {
   tutorialSidebar: [
     'introduction',
-    'backOffice',
     'dataTypeRef',
     'developerWorkflow',
     "response",
-    "APISpecification"
 
     
   ],
